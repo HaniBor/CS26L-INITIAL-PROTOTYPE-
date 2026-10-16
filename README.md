@@ -570,7 +570,3 @@ The current implementation has the following limitations:
 
 ---
 
-## 15. GitHub Repository
-
-**Repository Link:** [Paste your GitHub repository link here]
-
