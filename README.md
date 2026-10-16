@@ -150,23 +150,12 @@ FINAL_PROJECT_CS26L/
     │   ├── repository.py
     │   └── service.py
     │
-    ├── task/
-    │   ├── model.py
-    │   ├── repository.py
-    │   ├── service.py
-    │   └── view.py
-    │
-    ├── search/
-    │   ├── model.py
-    │   ├── repository.py
-    │   ├── service.py
-    │   └── view.py
-    │
-    └── sort/
+    ├── taskmanagement/
         ├── model.py
         ├── repository.py
         ├── service.py
         └── view.py
+   
 ```
 
 ### File and Folder Descriptions
